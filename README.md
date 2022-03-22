@@ -1,0 +1,2 @@
+# tryjulia
+curious about julia
